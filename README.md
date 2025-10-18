@@ -284,13 +284,11 @@ curl -X POST http://localhost:8000/api/requests \
 frontdesk-hitl/
 ├── backend/               # Flask API Server
 │   ├── app.py            # Main application
-│   ├── requirements.txt  # Python dependencies
-│   ├── .env.example      # Environment template
+│   ├── requirements.txt  # Python dependencies  
 │   └── .env              # Config (gitignored)
 ├── agent/                # AI Agent
 │   ├── agent.py          # Terminal simulator
 │   ├── requirements.txt  # Python dependencies
-│   ├── .env.example      # Environment template
 │   └── .env              # Config (gitignored)
 ├── frontend/             # React Dashboard
 │   ├── src/
@@ -299,7 +297,6 @@ frontdesk-hitl/
 │   ├── public/
 │   │   └── index.html    # HTML template
 │   ├── package.json      # Node dependencies
-│   ├── .env.example      # Environment template
 │   └── .env              # Config (gitignored)
 ├── docs/
 │   └── DESIGN.md         # Detailed design decisions
