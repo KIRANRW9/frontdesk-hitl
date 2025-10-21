@@ -100,23 +100,16 @@ python agent.py
 ---
 
 ## 🎬 Demo Walkthrough
+## 📝 Demo Interaction Transcript
 
-### Complete Test Flow:
+### Complete Test Flow
 
-1. **Agent Terminal:** Type `new` to start a call
-2. **Enter caller info** (or press Enter for defaults)
-3. **Ask unknown question:** "Do you offer Botox treatments?"
-4. **Agent escalates** → Creates help request
-5. **Open Dashboard:** http://localhost:3000 → See request in "Pending" tab
-6. **Answer the question:** Type comprehensive answer, click "Submit"
-7. **Watch the magic:**
-   - ✅ Backend logs show customer notification
-   - ✅ Request moves to "History" tab
-   - ✅ Answer appears in "Knowledge Base" tab
-8. **Test learning:** Start new call, ask about Botox again
-9. **AI knows instantly!** No escalation needed
+1. **Start a Call:** Type `new` to begin.
+2. **Enter Caller Info:** Or press Enter for defaults.
+3. **Ask Unknown Question:** Example: "parking" → escalates to supervisor.
+4. **Supervisor Answers:** Backend updates knowledge base.
+5. **Test Learning:** Ask the same or similar questions again → AI responds instantly.
 
-**This proves the self-learning system works.** 🎉
 
 ---
 
