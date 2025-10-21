@@ -300,7 +300,6 @@ frontdesk-hitl/
 │   └── .env              # Config (gitignored)
 ├── docs/
 │   └── DESIGN.md         # Detailed design decisions
-├── .gitignore            # Git ignore rules
 └── README.md             # This file
 ```
 
