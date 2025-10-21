@@ -368,7 +368,7 @@ All have straightforward solutions documented in code.
 **Kiran Rangu**
 - GitHub:[KIRANRW9](https://github.com/KIRANRW9)
 - Email:  kiranrw09@gmail.com
-- LinkedIn : [Kiran Rangu](www.linkedin.com/in/kiranrangu)
+- LinkedIn : [Kiran Rangu]([www.linkedin.com/in/kiranrangu](https://www.linkedin.com/in/kiranrangu/))
 
 
 ## 🙏 Acknowledgments
