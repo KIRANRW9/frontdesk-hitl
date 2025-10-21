@@ -368,13 +368,6 @@ All have straightforward solutions documented in code.
 > > Watch the demo video here: [Frontdesk HITL Demo Video](https://drive.google.com/file/d/13AikYbRUV4jUYTY8I85zWCxHn26Czdmw/view?usp=sharing)
 
 
-**Covers:**
-- System architecture
-- Live demonstration
-- Design decisions
-- Scaling strategy
-- Future improvements
-
 ---
 
 ## 👤 Author
